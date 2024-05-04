@@ -1,0 +1,5 @@
+export {default as Dashboard} from './Dashbaord'
+export {default as Products} from './Products'
+export {default as Category} from './Category'
+export {default as Customers} from './Customers'
+export {default as Orders} from './Orders'
